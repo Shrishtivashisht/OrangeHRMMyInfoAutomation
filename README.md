@@ -67,7 +67,8 @@ Edit
 npx playwright test
 
 # Run specific test
-npx playwright test src/tests/MyInfo_testcases/yaksha.spec.ts
+npx playwright test
+
 
 # View HTML report
 npx playwright show-report
